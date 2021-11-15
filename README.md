@@ -29,7 +29,7 @@ repository.
 [**Audrey Omidsalar**]
 [**Alan Shi**]
 
-[**Anushka Yadav**]
+[**Anushka Yadav**](https://github.com/Anushkay2899/) I can shop for an entire day and still not have anything to wear for the next outing :)
 
 [**Zidan	Yuan**]
 	
