@@ -19,26 +19,44 @@ repository.
 
 # CXPT599 students
 [**Rayyan Aburajab**]
+
 [**Ruiwei Guo**]
+
 [**Amina	Khan**]
+
 [**Nairuti Milan Mehta**]
+
 [**Audrey Omidsalar**]
 [**Alan Shi**]
+
 [**Anushka Yadav**]
+
 [**Zidan	Yuan**]
 	
 [**Ritu	Chandwani**]
+
 [**Yu Ning Huang**]
-[**Zekun	Li**]
+
+[**Zekun Li**]
+
 [**Aditya Naik**]
+
 [**Khooshbu Kantibhai Patel**]
+
 [**Tzu-Hsuan	Tseng**]
+
 [**Yingduo	Yang**]
 	
 [**Kingsley	Chow**]
+
 [**Guoyun Kao**]
+
 [**Jay Himanshu Mehta**]
+
 [**Reva	Nevrekar**]
-[**Tejasvene	Ramesh**]
+
+[**Tejasvene Ramesh**]
+
 [**Yu-Chun Wei**]
+
 [**Po-Wen Yu**]
