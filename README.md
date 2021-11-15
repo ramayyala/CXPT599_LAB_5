@@ -1,4 +1,4 @@
-# Intro to Public Health Data Science
+# CXPT599 Lab 5
 
 You need to make a fork of this repository, find your name in the list below, and replace it with something like:
 
