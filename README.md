@@ -31,7 +31,7 @@ repository.
 
 [**Anushka Yadav**]
 
-[**Zidan	Yuan**]
+[**Zidan	Yuan**](https://github.com/ZidanYuan) I like playing violin very much.
 	
 [**Ritu	Chandwani**]
 
