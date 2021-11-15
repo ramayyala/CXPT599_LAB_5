@@ -26,7 +26,8 @@ repository.
 
 [**Nairuti Milan Mehta**]
 
-[**Audrey Omidsalar**]
+[**Audrey Omidsalar**](https://github.com/aomidsalar/) I was born and raised in LA!
+
 [**Alan Shi**]
 
 [**Anushka Yadav**]
