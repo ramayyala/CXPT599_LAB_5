@@ -22,7 +22,7 @@ repository.
 
 [**Ruiwei Guo**]
 
-[**Amina	Khan**]
+[**Amina	Khan**] https://github.com/AminaKhan13 When I was a kid, I wanted to be a marine biologist. 
 
 [**Nairuti Milan Mehta**]
 
