@@ -43,7 +43,7 @@ repository.
 
 [**Khooshbu Kantibhai Patel**]
 
-[**Tzu-Hsuan	Tseng**]
+[**Tzu-Hsuan	Tseng**](https://github.com/Sherrytzuhsuan/) sherry
 
 [**Yingduo	Yang**]
 	
