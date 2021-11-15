@@ -47,7 +47,7 @@ repository.
 
 [**Yingduo	Yang**]
 	
-[**Kingsley	Chow**]
+[**Kingsley	Chow**](http://github.com/kingsogc) I am a strong advocate for the pineapple and pizaa combo.
 
 [**Guoyun Kao**]
 
