@@ -8,7 +8,7 @@ You need to make a fork of this repository, find your name in the list below, an
 
 For example, this is what I did with mine:
 
-> [**Ram Ayyala**](https://github.com/ramayyala) When I was a kid, I had a pet fish named Porkchop who my parents replaced every year without me knowing! 
+> [**Ram Ayyala**](https://github.com/ramayyala) When I was a kid, I had a pet fish named Porkchop who my parents replaced every year without me knowing. 
 
 Look for your name and add a link to your Github profile and something about
 yourself you don't mind sharing publicly. Remember to only modify the line with your name! If you don't see your name, just add it at the end of the list (and see what happens!).
