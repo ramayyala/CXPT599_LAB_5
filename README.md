@@ -57,6 +57,6 @@ repository.
 
 [**Tejasvene Ramesh**]
 
-[**Yu-Chun Wei**] (https://github.com/Teresachunwei/)I love swimming.
+[**Yu-Chun Wei**] 
 
 [**Po-Wen Yu**]
