@@ -39,7 +39,7 @@ repository.
 
 [**Zekun Li**]
 
-[**Aditya Naik**]
+[**Aditya Naik**](https://github.com/adityanaik96)I like penguins
 
 [**Khooshbu Kantibhai Patel**]
 
