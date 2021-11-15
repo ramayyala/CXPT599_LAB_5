@@ -18,7 +18,7 @@ Once you are done, submit a
 repository.
 
 # CXPT599 students
-[**Rayyan Aburajab**]
+[**Rayyan Aburajab**] (https://github.com/rayyanaburajab) I have an orange cat named Mango
 
 [**Ruiwei Guo**]
 
