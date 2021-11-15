@@ -24,7 +24,7 @@ repository.
 
 [**Amina	Khan**]
 
-[**Nairuti Milan Mehta**]
+[**Nairuti Milan Mehta**] (https://github.com/NairutiM) I can't start my day without a cup of good coffee. 
 
 [**Audrey Omidsalar**]
 [**Alan Shi**]
