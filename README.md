@@ -41,7 +41,7 @@ repository.
 
 [**Aditya Naik**]
 
-[**Khooshbu Kantibhai Patel**]
+[**Khooshbu Kantibhai Patel**] I like to dance and sing and live painting...:)
 
 [**Tzu-Hsuan	Tseng**]
 
