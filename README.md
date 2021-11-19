@@ -27,7 +27,8 @@ repository.
 [**Nairuti Milan Mehta**]
 
 [**Audrey Omidsalar**]
-[**Alan Shi**]
+
+[**Alan Shi**](https://github.com/alans168668/) I have a koi pond in my backyard. 
 
 [**Anushka Yadav**]
 
