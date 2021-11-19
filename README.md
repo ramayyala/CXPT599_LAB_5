@@ -53,7 +53,7 @@ repository.
 
 [**Jay Himanshu Mehta**]
 
-[**Reva	Nevrekar**]
+[**Reva	Nevrekar**](https://github.com/revanevrekar) I was born in Margao, Goa
 
 [**Tejasvene Ramesh**]
 
